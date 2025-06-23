@@ -1,0 +1,14 @@
+{
+  "name": "MagnetraCoin",
+  "symbol": "MTC",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x2d3234519c44c8708A1A14981bd3D0b63fA3",
+  "website": "https://magnetrabank.com",
+  "description": "Monnaie officielle de MagnetraBank, conçue pour les transactions numériques décentralisées.",
+  "links": {
+    "github": "https://github.com/MagnetraBank",
+    "website": "https://magnetrabank.com"
+  }
+}
